@@ -1,4 +1,4 @@
-# privacy_policy_of_free_sudoku
+# Privacy Policy
 Privacy Policy
 Prideful Developer built the Sudoku app as a Free app. This SERVICE is provided by Prideful Developer at no cost and is intended for use as is.
 
